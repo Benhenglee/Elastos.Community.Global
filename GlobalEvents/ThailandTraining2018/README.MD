@@ -23,7 +23,7 @@ Aug 22
 - 9:30 am Elastos overview by KP Woods
 - 10:30 Coffee break
 - 10:45 Blockchain basic by ???
-- 11:30 Elastos mainchain sidechain by ???
+- 11:30 Elastos mainchain sidechain by LEE
 - 12:30 Lunch break. Cattering is preferred to save time
 - 13:00 Elastos mainchain sidechain continue
 - 14:00 Workshoo (Chain browser, wallet handson etc)
